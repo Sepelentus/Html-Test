@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(173, 179, 185);
+}
+.divSection{
+    border: 5px outset aquamarine;
+    background-color: darkgray;
+    text-align: center;
+}
+
+.gifSection{
+    border: 2px outset peru;
+    background-color: rgb(207, 197, 171);
+    text-align: center;
+    text-shadow: 2px;
+}
